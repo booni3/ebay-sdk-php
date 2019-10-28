@@ -36,5 +36,10 @@
             "DTS\\eBaySDK\\Test\\": "test/"
         },
         "classmap": ["build/"]
+    },
+    "extra": {
+      "branch-alias": {
+         "dev-master": "18.0.x-dev"
+      }
     }
 }
